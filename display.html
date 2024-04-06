@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TMDB ID and URL Input</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  .container {
+    width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  #output {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h2>TMDB ID and URL Input</h2>
+  <label for="tmdb-id">TMDB ID:</label>
+  <input type="text" id="tmdb-id" placeholder="Enter TMDB ID">
+  <label for="video-url">Video URL:</label>
+  <input type="text" id="video-url" placeholder="Enter Video URL">
+  <button onclick="generateOutput()">Generate Output</button>
+  <div id="output"></div>
+</div>
+
+<script>
+  function generateOutput() {
+    var tmdbId = document.getElementById("tmdb-id").value.trim();
+    var videoUrl = document.getElementById("video-url").value.trim();
+    var outputDiv = document.getElementById("output");
+
+    if (!tmdbId || !videoUrl) {
+      outputDiv.innerHTML = "<p>Please enter both TMDB ID and Video URL.</p>";
+      return;
+    }
+
+    var outputText = '#EXTINF:10.0, TMDB ID: ' + tmdbId + '\n' + videoUrl;
+    outputDiv.innerHTML = "<pre>" + outputText + "</pre>";
+  }
+</script>
+</body>
+</html>
