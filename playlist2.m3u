@@ -1,0 +1,71 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="rick_and_morty_s03e02" tvg-name="Rick and Morty S03E02" tvg-logo="optional_logo_url" group-title="TV Shows",Rick and Morty S03E02 - Rickmancing the Stone
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/03678/5whsngl1a1dw_h/index-v1-a1.m3u8?t=sRUZQJS4A66Iepjmq8UXFDslr6KdpG-8xE0pSxqsGHM&s=1714219135&e=43200&f=23758602&srv=02&asn=60068&sp=4000 
+
+#EXTINF:-1 tvg-id="rick_and_morty_s03e03" tvg-name="Rick and Morty S03E03" tvg-logo="optional_logo_url" group-title="TV Shows",Rick and Morty S03E03 - Pickle Rick
+https://be4242.rcr52.ams03.cdn112.com/hls2/02/03678/i27zy0jee5lw_h/index-v1-a1.m3u8?t=S_vbM082wIp-HiFw6QPzxaylLUvzELUb5E-6r_tgZIU&s=1714219150&e=43200&f=23758646&srv=30&asn=60068&sp=4000 
+
+#EXTINF:-1 tvg-id="rick_and_morty_s03e04" tvg-name="Rick and Morty S03E04" tvg-logo="optional_logo_url" group-title="TV Shows",Rick and Morty S03E04 - Vindicators 3: The Return of Worldender
+https://be7713.rcr82.waw05.cdn112.com/hls2/02/03678/k9i1yk2nacuy_h/master.m3u8?t=EQLvPzCM6yRIJa9ciJMeKopHgiFKlSF96tpk1LP-bsI&s=1714219176&e=43200&f=23758645&srv=28&asn=60068&sp=4000
+
+#EXTINF:-1 tvg-id="rick_and_morty_s03e05" tvg-name="Rick and Morty S03E05" tvg-logo="optional_logo_url" group-title="TV Shows",Rick and Morty S03E05 - The Whirly Dirly Conspiracy
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/03678/zjlv8mr6c6yr_h/index-v1-a1.m3u8?t=mRdtZHRH-lW_WbuA5RTXI-5SiYfZCQGTasC2ESmMsMM&s=1714219187&e=43200&f=23758622&srv=06&asn=60068&sp=4000
+
+#EXTINF:-1 tvg-id="rick_and_morty_s03e06" tvg-name="Rick and Morty S03E06" tvg-logo="optional_logo_url" group-title="TV Shows",Rick and Morty S03E06 - Rest and Ricklaxation
+https://be7713.rcr82.waw05.cdn112.com/hls2/02/03678/mcwk6e7kps0w_h/index-v1-a1.m3u8?t=Mc8rT8HVtKFUOYjUd37tsNYV9cvcNB5oAwtQYMojX_8&s=1714219231&e=43200&f=23758524&srv=29&asn=60068&sp=4000 
+
+#EXTINF:-1 tvg-id="rick_and_morty_s03e07" tvg-name="Rick and Morty S03E07" tvg-logo="optional_logo_url" group-title="TV Shows",Rick and Morty S03E07 - The Ricklantis Mixup
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/03678/gzyp0e1uwa5t_h/index-v1-a1.m3u8?t=ZJFuXwW6IGPc0-3odHykw_k-y1_Oahjgr66nquVF8cQ&s=1714219282&e=43200&f=23758614&srv=16&asn=60068&sp=4000
+
+#EXTINF:-1 tvg-id="rick_and_morty_s03e08" tvg-name="Rick and Morty S03E08" tvg-logo="optional_logo_url" group-title="TV Shows",Rick and Morty S03E08 - Morty's Mind Blowers
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/03678/c6d72mqi2acw_h/index-v1-a1.m3u8?t=O7xO3PIftlKxHRon6RCDeX3r1IZWYLkRlqb94uZDoe8&s=1714219298&e=43200&f=23758596&srv=02&asn=60068&sp=4000 
+
+#EXTINF:-1 tvg-id="rick_and_morty_s03e09" tvg-name="Rick and Morty S03E09" tvg-logo="optional_logo_url" group-title="TV Shows",Rick and Morty S03E09 - The ABC's of Beth
+https://be4242.rcr52.ams03.cdn112.com/hls2/03/03678/hqk070b5kafl_h/index-v1-a1.m3u8?t=JpXyaG2KUIuHXe7PWqa2UKQ2DqTchmj0IuNKqdpEYek&s=1714219314&e=43200&f=23758928&srv=30&asn=60068&sp=4000
+
+#EXTINF:-1 tvg-id="rick_and_morty_s03e10" tvg-name="Rick and Morty S03E10" tvg-logo="optional_logo_url" group-title="TV Shows",Rick and Morty S03E10 - The Rickchurian Mortydate
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/03678/k98equbf6xa2_h/index-v1-a1.m3u8?t=OR-Hg2IhELwsBt-ZIZooBjEH85gXjqkvlQdHA15S9Vs&s=1714219327&e=43200&f=23758642&srv=26&asn=60068&sp=4000 
+
+#EXTINF:-1 tvg-id="despicable_me_3" tvg-name="Despicable Me 3" tvg-logo="optional_logo_url" group-title="Movies",Despicable Me 3
+https://be6224.rcr92.lim01.cdn112.com/hls2/02/01584/nf4uuz4r5ns0_x/index-v1-a1.m3u8?t=tHrqDiLQkH_tgOUAncIYsEeIhz7c6vNIM91ztHBD_kQ&s=1714218636&e=43200&f=23862407&srv=29&asn=60068&sp=5500 
+
+#EXTINF:-1 tvg-id="elemental" tvg-name="Elemental" tvg-logo="optional_logo_url" group-title="Movies",Elemental
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/04815/lang/eng/58ey73xvd14r_eng/index.m3u8?t=jRvoq5LX9xyZiywrDAgAvmS6tjOxZDGOUwwJut-eqoc&s=1714218655&e=43200&f=24077776&srv=45&asn=60068&sp=5500&fr=58ey73xvd14r
+
+#EXTINF:-1 tvg-id="emancipation" tvg-name="Emancipation" tvg-logo="optional_logo_url" group-title="Movies",Emancipation
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/04743/4ne6k34nyjvh_h/master.m3u8?t=r-adCDU796exLwIWSC5YJbYHxoCpjIJWCf4Br2k3k7I&s=1714218675&e=43200&f=23718998&srv=51&asn=60068&sp=4000
+
+#EXTINF:-1 tvg-id="expend4bles" tvg-name="Expend4bles" tvg-logo="optional_logo_url" group-title="Movies",Expend4bles
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/04785/,nd28njv05evm_h,lang/eng/71yp9vnvnzc2_eng,lang/ara/71yp9vnvnzc2_ara,.urlset/master.m3u8?t=f-5SE5Q6QXbfslXIrLIBfIai-aspskwfY4_OerBs54k&s=1714218689&e=43200&f=24035175&srv=26&asn=60068&sp=4000&fr=nd28njv05evm
+
+#EXTINF:-1 tvg-id="gran_turismo" tvg-name="Gran Turismo" tvg-logo="optional_logo_url" group-title="Movies",Gran Turismo
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/04695/,1u6u0mcgpudn_h,lang/eng/wt0lja9ue9x2_eng,lang/ara/wt0lja9ue9x2_ara,lang/bul/wt0lja9ue9x2_bul,lang/chi/wt0lja9ue9x2_chi,lang/cze/wt0lja9ue9x2_cze,lang/ger/wt0lja9ue9x2_ger,lang/spa/wt0lja9ue9x2_spa,lang/fre/wt0lja9ue9x2_fre,lang/heb/wt0lja9ue9x2_heb,lang/ind/wt0lja9ue9x2_ind,lang/kor/wt0lja9ue9x2_kor,lang/pol/wt0lja9ue9x2_pol,lang/por/wt0lja9ue9x2_por,lang/swe/wt0lja9ue9x2_swe,lang/tha/wt0lja9ue9x2_tha,lang/vie/wt0lja9ue9x2_vie,.urlset/master.m3u8?t=W2aLTgjZroTbrfOIRpeSZydZZ92FWYoiR80y7f83zXY&s=1714218703&e=43200&f=23757342&srv=22&asn=60068&sp=4000&fr=1u6u0mcgpudn
+
+#EXTINF:-1 tvg-id="meg_2_the_trench" tvg-name="Meg 2: The Trench" tvg-logo="optional_logo_url" group-title="Movies",Meg 2: The Trench
+https://be2719.rcr22.ams01.cdn112.com/hls2/01/04499/,wm4c0q6ivvok_h,lang/eng/ildsrxuoj24h_eng,lang/fre/ildsrxuoj24h_fre,.urlset/master.m3u8?t=-kxIsRBiAP2PBtD5Zx12K4UqByx6S9Jsi5FQXuKX7Nk&s=1714218719&e=43200&f=23840113&srv=33&asn=60068&sp=4000&fr=wm4c0q6ivvok 
+
+#EXTINF:-1 tvg-id="mission_impossible_dead_reckoning_part_one" tvg-name="Mission: Impossible - Dead Reckoning Part One" tvg-logo="optional_logo_url" group-title="Movies",Mission: Impossible - Dead Reckoning Part One
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/04765/,fepopp4dfb5h_x,lang/eng/wf3r8sdpaat1_eng,lang/ara/wf3r8sdpaat1_ara,lang/bul/wf3r8sdpaat1_bul,lang/chi/wf3r8sdpaat1_chi,lang/cze/wf3r8sdpaat1_cze,lang/gre/wf3r8sdpaat1_gre,lang/spa/wf3r8sdpaat1_spa,lang/fre/wf3r8sdpaat1_fre,lang/heb/wf3r8sdpaat1_heb,lang/hin/wf3r8sdpaat1_hin,lang/hun/wf3r8sdpaat1_hun,lang/ind/wf3r8sdpaat1_ind,lang/jpn/wf3r8sdpaat1_jpn,lang/kor/wf3r8sdpaat1_kor,lang/may/wf3r8sdpaat1_may,lang/pol/wf3r8sdpaat1_pol,lang/por/wf3r8sdpaat1_por,lang/swe/wf3r8sdpaat1_swe,lang/tha/wf3r8sdpaat1_tha,lang/tur/wf3r8sdpaat1_tur,lang/ukr/wf3r8sdpaat1_ukr,lang/vie/wf3r8sdpaat1_vie,.urlset/master.m3u8?t=thFjQyA0ZZQvO4HWRdtLAKPMonf59poXsCJwoiLLI_Y&s=1714218734&e=43200&f=24002510&srv=23&asn=60068&sp=5500&fr=fepopp4dfb5h 
+
+#EXTINF:-1 tvg-id="pet_sematary_bloodlines" tvg-name="Pet Sematary: Bloodlines" tvg-logo="optional_logo_url" group-title="Movies",Pet Sematary: Bloodlines
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/04747/,2s0synfo05ke_x,lang/eng/ivhvdg7ayfbv_eng,lang/spa/ivhvdg7ayfbv_spa,.urlset/master.m3u8?t=TIUB1QUMjUUwpjS2JnMVnQW0jBRVDhuL1Nhp4UtCXcY&s=1714218794&e=43200&f=23760680&srv=20&asn=60068&sp=5500&fr=2s0synfo05ke 
+
+#EXTINF:-1 tvg-id="retribution" tvg-name="Retribution" tvg-logo="optional_logo_url" group-title="Movies",Retribution
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/04625/,j7kftimqkawl_h,lang/eng/tx3h1o7iyo91_eng,.urlset/master.m3u8?t=Tl1zf7AHAiUh1DC_3du9M2NgkuXdGStFpDKiIDwppCk&s=1714218780&e=43200&f=23839212&srv=36&asn=60068&sp=4000&fr=j7kftimqkawl 
+
+#EXTINF:-1 tvg-id="the_nun_ii" tvg-name="The Nun II" tvg-logo="optional_logo_url" group-title="Movies",The Nun II
+https://be7713.rcr82.waw05.cdn112.com/hls2/02/04747/lang/eng/bkdxlzh1xwz1_eng/index.m3u8?t=kVeVAiXNzfAXAB_28IhdMlmaG6mcqrAJ6kuTgdeEKUc&s=1714218806&e=43200&f=23737306&srv=26&asn=60068&sp=5500&fr=bkdxlzh1xwz1
+
+#EXTINF:-1 tvg-id="the_burial_2023" tvg-name="The Burial 2023" tvg-logo="optional_logo_url" group-title="Movies",The Burial 2023
+https://be2719.rcr22.ams01.cdn112.com/hls2/01/04786/,edb032iolk1o_h,lang/eng/wu9icqf6v3o0_eng,lang/ara/wu9icqf6v3o0_ara,lang/chi/wu9icqf6v3o0_chi,lang/cze/wu9icqf6v3o0_cze,lang/spa/wu9icqf6v3o0_spa,lang/fre/wu9icqf6v3o0_fre,lang/ger/wu9icqf6v3o0_ger,lang/gre/wu9icqf6v3o0_gre,lang/heb/wu9icqf6v3o0_heb,lang/hin/wu9icqf6v3o0_hin,lang/hun/wu9icqf6v3o0_hun,lang/ind/wu9icqf6v3o0_ind,lang/ita/wu9icqf6v3o0_ita,lang/jpn/wu9icqf6v3o0_jpn,lang/kor/wu9icqf6v3o0_kor,lang/may/wu9icqf6v3o0_may,lang/pol/wu9icqf6v3o0_pol,lang/por/wu9icqf6v3o0_por,lang/rum/wu9icqf6v3o0_rum,lang/rus/wu9icqf6v3o0_rus,lang/swe/wu9icqf6v3o0_swe,lang/tha/wu9icqf6v3o0_tha,lang/tur/wu9icqf6v3o0_tur,lang/ukr/wu9icqf6v3o0_ukr,lang/vie/wu9icqf6v3o0_vie,.urlset/master.m3u8?t=yQsQfA_FXqHhqQHywzBQ5X1lAvauPJEocxmZAN3cUvk&s=1714218818&e=43200&f=24080490&srv=50&asn=60068&sp=4000&fr=edb032iolk1o 
+
+#EXTINF:-1 tvg-id="the_equalizer_3" tvg-name="The Equalizer 3" tvg-logo="optional_logo_url" group-title="Movies",The Equalizer 3
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/04730/g0zv7fqst06x_h/index-v1-a1.m3u8?t=dK3mpEqmncSbuIEIQB6DRz8wQ_m0S-F246dxA0zbmIQ&s=1714218830&e=43200&f=23701126&srv=47&asn=60068&sp=4000 
+
+#EXTINF:-1 tvg-id="the_offering" tvg-name="The Offering" tvg-logo="optional_logo_url" group-title="Movies",The Offering
+https://be7713.rcr82.waw05.cdn112.com/hls2/02/02854/cg6mbz292dsx_x/index-v1-a1.m3u8?t=MoTJ9nukFJAm_jwu7UdrzXPxg5ArAVu-9uxh4Wbwflc&s=1714218843&e=43200&f=23863839&srv=27&asn=60068&sp=5500 
+
+#EXTINF:-1 tvg-id="to_catch_a_killer" tvg-name="To Catch a Killer" tvg-logo="optional_logo_url" group-title="Movies",To Catch a Killer
+https://be2719.rcr22.ams01.cdn112.com/hls2/01/04806/axgkznw0gzqv_x/index-v1-a1.m3u8?t=mlHGLxyaF9NOKiZ4oxflFKjgOOu0UoNxwXYOeJiWjO8&s=1714218869&e=43200&f=24032708&srv=46&asn=60068&sp=5500 
+
